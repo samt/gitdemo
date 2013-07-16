@@ -2,5 +2,4 @@ John
 Jane
 Josh
 Sam
-Sally
 Sean
